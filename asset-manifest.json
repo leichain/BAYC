@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BAYC/static/css/main.e28d3406.chunk.css",
-    "main.js": "/BAYC/static/js/main.9d493b43.chunk.js",
-    "main.js.map": "/BAYC/static/js/main.9d493b43.chunk.js.map",
+    "main.js": "/BAYC/static/js/main.67fb50fd.chunk.js",
+    "main.js.map": "/BAYC/static/js/main.67fb50fd.chunk.js.map",
     "runtime-main.js": "/BAYC/static/js/runtime-main.d3291731.js",
     "runtime-main.js.map": "/BAYC/static/js/runtime-main.d3291731.js.map",
     "static/js/2.1497db9e.chunk.js": "/BAYC/static/js/2.1497db9e.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.d3291731.js",
     "static/js/2.1497db9e.chunk.js",
     "static/css/main.e28d3406.chunk.css",
-    "static/js/main.9d493b43.chunk.js"
+    "static/js/main.67fb50fd.chunk.js"
   ]
 }
